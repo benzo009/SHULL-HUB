@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+    <title>
+        Benzo.login</title>
+    <head>
+        <link href="dantownm.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<style>
+h1 {
+  font-family: "Audiowide", sans-serif;
+  font-size: 80px;
+  color: rgba(20, 191, 248, 0.699); 
+  text-align: center;
+  text-shadow: 10px 10px 15px;
+}
+</style>
+
+    </head>
+
+<h1>SKULL HUB</h1>
+
+    <!--Our services-->
+<div class="dropup">
+    <button class="dropbtn">Services</button>
+    <div class="dropup-content">
+      <a href="#">CRYPTO analysis__$1005.99 </a>
+      <a href="#"> CRYPTO signal__$200</a>
+      <a href="#"> CRYPTO fundermental update__$25.99</a>
+      <a href="#"> CRYPTO P2P trading__free access</a>
+      <a href="#">CRYPTO guide__$1000.99</a>
+      <a href="#">CRYPTO coins to invest in__$76.00</a>
+    </div>
+  </div>
+
+<!--Welcome back-->
+    <div class="fromanywhere">
+        <p>
+            Welcome back!
+        </p>
+    </div>
+
+    <!--Login details-->
+    <div class="LOGIN">   
+        <p  <i class="glyphicon glyphicon-user"></i>
+         <strong> LOGIN</strong> </p><br><br>
+        <form>
+            <strong>USERNAME</strong>  
+            <label for="Name"></label>
+            <input type="text" id="name"  placeholder="Enter username" name="name">
+            </label>
+        <br><br><br>
+        
+        <!--Password details-->
+        <form>
+            <strong>
+                PASSWORD
+            </strong>
+            <label for="password">
+                <input type="password" placeholder="Enter password" id="password">
+            </label>
+            </label><br><br>
+
+            <!--Submit details-->
+            <form>
+                <label for="submit"></label>
+           <input type="submit" id="submit" name="submit">
+        </label>   <br><br>
+
+        <!--Register details-->
+        <a href="https://unsplash.com/s/photos/cryptocurrency"> Register</a> <br><br>
+
+        <!--Forgot password-->
+        <p2>
+            <a href="https://unsplash.com/s/photos/cryptocurrency"> Forgot password?</a>
+        </p2>
+        </form>
+        </form>
+        </form>
+        </div>
+        </html>    
+    </div> 
+
+    <!--style-->
+    <style>
+        body{
+            background-image: url("/image.html/new\ onw\ 8.jpg");
+                   background-attachment: fixed;
+                   background-repeat: no-repeat;
+                   background-position: center;
+                   background-size: 100%;
+                   backface-visibility: 30%;
+        }
+    </style>
+
+    <!--detail for customer care-->
+<div class="customer">
+    <h3>CUSTOMER CARE
+    </h3>
+
+      <!--body-->
+      <body3>
+          <ul>
+              <li>+2347069094773</li>
+              <li>umehbenjamin220@gmail.com</li>
+              <li>SHOP 91 OWODE  ESTATE APATA,iBADAN.NIGERIA</li>
+          </ul>
+</body3>
+</div>
+<br><br>
+
+<!--details for copy right-->
+<div class="copyrights">
+<p7>
+  @2022 Benzo crypto hub inc. All rights reserved.
+</p7>
+</div>
+</html>
